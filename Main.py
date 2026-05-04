@@ -4,3 +4,4 @@ def berechne_netto_preis(brutto, steuersatz=19):
     netto = round(netto, 2)
     return netto
 print("cisco")
+print("cisco +")
