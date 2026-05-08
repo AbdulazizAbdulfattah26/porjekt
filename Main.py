@@ -5,3 +5,5 @@ def berechne_netto_preis(brutto, steuersatz=19):
     return netto
 print("cisco")
 print("cisco +")
+print("Java")
+print("hallo")
